@@ -18,7 +18,7 @@ describe("ProtractorPractice",function(){
     cy.get('#exampleCheck1').check().should('be.checked')
 
     // select dropdown to select gender
-    cy.get("#exampleFormControlSelect1").select(this.data.gender)
+    // cy.get("#exampleFormControlSelect1").select(this.data.gender)
 
     //select radio button
     cy.get("#inlineRadio1").check().should('be.checked')
