@@ -1,0 +1,12 @@
+{
+  "name": "sadiq",
+  "email": "hello@cypress.io",
+  "password":"123",
+  "gender": "Female",
+  "products": ["Blackberry","Samsung Note 8","iphone X"],
+  "vegProducts": ["Brocolli - 1 Kg","Beetroot - 1 Kg","Beetroot - 1 Kg"],
+  "Country":"Ind",
+  "nameCountry": "India",
+  "MyStoreTitle":"My Store"
+  
+}
